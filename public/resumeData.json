@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Ranjeet Patel",
+    "occupation": "( Software Engineer | Frontend Developer)",
+    "description": "currently employed by ( 42SIGNS INFOSYSTEMS LLP ). A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server mode.",
+    "image": "profilepic.jpg",
+    "bio": "BE Graduate in Computer Science | Experience in Web Developer Experience of 6-months | Actively looking for a Job having Core Java,C++, React JS, JavaScript, HTML, CSS | Basics of Testing, great communication skill.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ranjeetpatel096@gmail.com",
+    "phone": "(+91 7999875809)",
+    "address": {
+      "street": "(Jabalpur)",
+      "city": "(Jabalpur)",
+      "state": "(Madhya Pradesh)",
+      "zip": "(Jabalpur/482051)"
+    },
+    "website": "/",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100007137344959",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ranjeetpatel096/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Ran096",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I m a Web Developer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Shri Ram Institute of Science And Technology",
+        "degree": "Bachelor of Engineering Branch of Computer Science",
+        "graduated": "Auguest 2020",
+        "description": " Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile),"
+      },
+      {
+        "school": "Mahakoshal Higher Secondary School",
+        "degree": "Madhya Pradesh Board of Secondary Education, Class 12th Math's Science",
+        "graduated": "Year of Passing : May 2016",
+        "description": "Mathematicians often say that the essence of Mathematics lies in the beauty of numbers, figures and relations, and there is truth in that. ... Together with the experimental method, Mathematics forms the conceptual scheme on which modern science is based and which supports technology, with close interactions among them."
+      },
+      {
+        "school":"CSS Javascrit And Paython Certificate Course",
+        "graduated":"19 November 2021",
+        "description":"Web Developer | Software Development Engineering"
+      },
+      {
+        "school":"Web Development Certificate Course",
+        "graduated":"17 November 2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "42SIGNS INFOSYSTEMS LLP",
+        "title": "Front-End Developer ",
+        "years": " June - Present",
+        "description": "Resourceful Front End Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML and CSS coding, design and extensions to meet organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds. File Encryption and Decryption Application,Encryption and decryption are coding/decoding techniques to avoid misuse of data in case it goes to the wrong person. It involves 2 keys, public and private. Each receiver/sender knows its private key and noon else knows, and each receiver/sender' spublic key is known to all on the network. Web Technologies using Html, Css, JavaScript and used Algorithm AES DES. "
+      },
+      {
+        "company": "Website Developer",
+        "title": "Self Employed",
+        "years": "March 2020 - February 2021",
+        "description": "Web developers design and build websites. They are typically responsible for the appearance, of the site and technical aspects, such as site speed and how much traffic the site can handle. Web developers may also create site content that requires technical features."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "Core Java",
+        "level": "55%"
+      },
+      {
+        "name": "HTML",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "React JS",
+        "level": "50%"
+      },
+      {
+        "name": "Web Developer",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
